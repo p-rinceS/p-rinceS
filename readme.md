@@ -4,7 +4,7 @@
 	<strong>zero</strong>
 	<br>
 	<br>
-	<a href="https://dsc.gg/Auxtal"><img src="https://img.shields.io/badge/Discord-5865F2.svg?logo=Discord&logoColor=white"></a>
+	<a href="https://discord.gg/2jxEdaRD"><img src="https://img.shields.io/badge/Discord-5865F2.svg?logo=Discord&logoColor=white"></a>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 Hey <a href="https://github.com/Auxtal"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,  I'm zerorek
 I'm a sophomore at UIC.
 
-⌨️ I’m currently working on zeroBot
+⌨️ I’m currently working on Epsilon.
 
 ⭐ I’m proficient in Python.
 
