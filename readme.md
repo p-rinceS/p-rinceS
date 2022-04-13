@@ -16,7 +16,7 @@ I'm a sophomore at UIC.
 
 ⭐ I’m proficient in Python.
 
-📫 How to reach me: contact me on [discord](https://discord.com/users/135932078486192128
+📫 How to reach me: contact me on [discord](https://discord.com/users/135932078486192128)
 
 🌱 I’m currently learning C, C++, Data Structures & Algorithms.
 
