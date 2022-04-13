@@ -9,7 +9,7 @@ I'm a sophomore at UIC.
 
 📫 How to reach me: contact me on discord: zro#7025
 
-🌱 I’m currently learning C, C++, Datastructures & Algorithms.
+🌱 I’m currently learning C, C++, Data Structures & Algorithms.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zerorek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17368666)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](https://code.visualstudio.com/)  
