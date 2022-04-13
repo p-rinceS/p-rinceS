@@ -1,6 +1,15 @@
+---
 
+<p align="center">
+	<strong>zero</strong>
+	<br>
+	<br>
+	<a href="https://dsc.gg/Auxtal"><img src="https://img.shields.io/badge/Discord-5865F2.svg?logo=Discord&logoColor=white"></a>
+</p>
 
-Hey, I'm zerorek
+---
+
+Hey <a href="https://github.com/Auxtal"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,  I'm zerorek
 I'm a sophomore at UIC.
 
 ⌨️ I’m currently working on zeroBot
