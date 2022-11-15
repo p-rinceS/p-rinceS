@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-	<strong>zero</strong>
+	<strong>p</strong>
 	<br>
 	<br>
 	<a href="https://discord.gg/7yeVrup4UB"><img src="https://img.shields.io/badge/Discord-5865F2.svg?logo=Discord&logoColor=white"></a>
