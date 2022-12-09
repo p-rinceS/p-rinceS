@@ -12,8 +12,6 @@
 Hey <a href="https://github.com/Auxtal"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,  I'm Prince
 I'm a sophomore at UIC.
 
-⭐ I’m proficient in Python.
-
 📫 How to reach me: contact me on [discord](https://discord.com/users/135932078486192128)
 
 
