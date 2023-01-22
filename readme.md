@@ -5,8 +5,8 @@
 	<br>
 
 # Hey <a href="https://github.com/p-rinceS"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>,  I'm Prince
-I'm a sophomore at UIC.
-🔭 I’m currently working on projects.<br>🌱 I’m currently learning C & Assembly,<br>
+🔭 I’m currently working on personal projects.
+<br>🌱 I’m currently learning AWS.<br>
 
 
 # 💻 Tech Stack:
